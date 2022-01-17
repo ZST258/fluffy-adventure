@@ -12,6 +12,7 @@
 
 ### 1.下载clash for windows 汉化版
   下载链接 https://github.com/ender-zhao/Clash-for-Windows_Chinese/releases
-  ![image](https://user-images.githubusercontent.com/90917166/149782722-d5d66781-1fe7-4c22-ba17-1abbd8968236.png)
+  ![image](https://user-images.githubusercontent.com/90917166/149782900-1fad59c0-68d8-491b-9182-40e9fc954b72.png)
+  ### 选择红框中的任意一个下载，安装即可
 
   
