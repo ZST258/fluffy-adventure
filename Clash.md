@@ -87,8 +87,10 @@
 ##### 3.单击URL选项
 ![E6A602A0EE0A5F765C940FFCC4D5C548](https://user-images.githubusercontent.com/90917166/150635496-afb8d94e-f2c8-4b8c-81ea-45dc74478353.jpg)
 ##### 4.单击URL,填入下方订阅链接，并点击右上角保存按钮
+         https://proxy.cloudkingzst.xyz/sub/sub.yml
+
 ![B1AF92D7B2A67E5D9CC3466281AC37FB](https://user-images.githubusercontent.com/90917166/150635526-53a453f2-22d0-4e61-b2c6-e1be24730654.jpg)
-       https://proxy.cloudkingzst.xyz/sub/sub.yml
+
 
 
 
