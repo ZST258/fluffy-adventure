@@ -35,8 +35,11 @@
        https://github.com/2dust/v2rayNG/releases/tag/1.6.28
 #### Googleplay下载：直接搜索即可。
 #### 使用方法
-根据下列图片操作即可
+根据下列图片进行操作
 #### 添加订阅
+请下载添加订阅视频[添加订阅教程](v2rayNG.mp4)
+
+
 
 
 
