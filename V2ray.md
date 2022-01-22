@@ -31,6 +31,13 @@
 #### 节点下载速度越快，延迟越低，一般质量越高。
 
 ### 二、v2rayNG用法
+#### github下载：
+       https://github.com/2dust/v2rayNG/releases/tag/1.6.28
+#### Googleplay下载：直接搜索即可。
+#### 使用方法
+根据下列图片操作即可
+#### 添加订阅
+
 
 
 
