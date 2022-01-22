@@ -62,6 +62,23 @@
 其中，DIRECT代表黑名单模式。
 
 #### d.配置文件更新
+配置文件使用时更新即可。方法，点击配置文件右边的箭头。
+![image](https://user-images.githubusercontent.com/90917166/150634857-4465be42-b61a-4d4c-8543-4a211954e039.png)
+外部资源更新：
+#### 外部资源包括代理规则和节点，需要更新，建议在中午12点，下午六点各更新一次，方法如图。
+![image](https://user-images.githubusercontent.com/90917166/150634940-46b1b887-4cb3-4563-ac10-39916d2e55c0.png)
+
+## Clash for Android使用方法
+### 1.下载clash for Android
+#### github下载连接
+     https://github.com/Kr328/ClashForAndroid/releases
+直接选择下载即可。
+![image](https://user-images.githubusercontent.com/90917166/150635050-ce925360-9fc6-4eca-84bc-40ccc3ae5eb5.png)
+#### google商店下载
+#### ❓手机不能科学上网，请查阅
+
+
+
 
 
 
