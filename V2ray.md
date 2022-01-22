@@ -5,9 +5,8 @@
 ### 下面是v2ray使用的方法。
 ### 一、V2rayN使用方法
 #### 1.下载链接：
-      https://github.com/v2fly/v2ray-core/releases
+        https://github.com/2dust/v2rayN/releases/tag/4.29
 选择v4.44.0下载即可，windows端选择如下版本
-![image](https://user-images.githubusercontent.com/90917166/150636472-ad243cef-cb1d-4d15-a5f5-35dc5cd8deaa.png)
 #### 2.使用方式
 #### 
 
