@@ -75,7 +75,7 @@
 直接选择下载即可。
 ![image](https://user-images.githubusercontent.com/90917166/150635050-ce925360-9fc6-4eca-84bc-40ccc3ae5eb5.png)
 #### google商店下载
-直接在google商店搜索clash for andriod即可
+直接在google商店搜索clash for Android即可
 
 #### ❓手机不能科学上网，请查阅[clash开启局域网](clash开启局域网.md)
 
@@ -96,7 +96,7 @@
 #### a.更新配置文件
 点击配置文件右边的三个点，选择更新即可
 #### b.更新外部资源
-运行clash，点击下方的外部资源，点击最上方右侧的按钮即可。
+运行clash for Android，点击下方的外部资源，点击最上方右侧的按钮即可。
 
 
 
