@@ -77,6 +77,19 @@
 #### google商店下载
 #### ❓手机不能科学上网，请查阅[clash开启局域网](clash开启局域网.md)
 
+### 2.具体使用方法
+按照下面的图片一步步操作即可
+#### 导入订阅链接
+##### 1.单击配置
+![2E2BD41432F1583EAD9C201B073419B8](https://user-images.githubusercontent.com/90917166/150635456-d8de7be4-3eaf-420b-a778-a60cac030db8.jpg)
+##### 2.单击右上角加号
+![AE4EC75CAD60C5E056EB4336A985171C](https://user-images.githubusercontent.com/90917166/150635480-25b4e30a-8344-482d-88df-8f7992e06635.jpg)
+##### 3.单击URL选项
+![E6A602A0EE0A5F765C940FFCC4D5C548](https://user-images.githubusercontent.com/90917166/150635496-afb8d94e-f2c8-4b8c-81ea-45dc74478353.jpg)
+##### 4.单击URL,填入下方订阅链接，并点击右上角保存按钮
+![B1AF92D7B2A67E5D9CC3466281AC37FB](https://user-images.githubusercontent.com/90917166/150635526-53a453f2-22d0-4e61-b2c6-e1be24730654.jpg)
+       https://proxy.cloudkingzst.xyz/sub/sub.yml
+
 
 
 
