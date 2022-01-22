@@ -41,11 +41,11 @@
 ### (3)将筛选结果发送至服务器。
 ## 三、使用问题
 #### 关于本项目的使用请详见以下md文件：
-clash使用教程：[clash.md](clash.md)
+clash使用教程：[clash.md](Clash.md)
 
-v2ray使用教程：[v2ray.md](v2ray.md)
+v2ray使用教程：[v2ray.md](V2ray.md)
 
-winxray使用教程 [winxray.md](winxray.md)
+winxray使用教程 [winxray.md](Winxray.md)
       
     
      
