@@ -37,7 +37,7 @@
       连接并发数：50
       延时设置：3s
       测试网页：标准clash测试延迟网页
-经过检查后，可以将节点可用率提高至0.6以上，且速度又一定的保障
+经过检查后，可以将节点可用率提高至0.6以上，且速度有一定的保障
 ### (3)将筛选结果发送至服务器。
 ## 三、使用问题
 #### 关于本项目的使用请详见以下md文件：
@@ -45,7 +45,7 @@ clash使用教程：[clash.md](Clash.md)
 
 v2ray使用教程：[v2ray.md](V2ray.md)
 
-winxray使用教程 [winxray.md](Winxray.md)
+winxray使用教程: [winxray.md](Winxray.md)
       
     
      
