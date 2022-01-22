@@ -75,7 +75,7 @@
 直接选择下载即可。
 ![image](https://user-images.githubusercontent.com/90917166/150635050-ce925360-9fc6-4eca-84bc-40ccc3ae5eb5.png)
 #### google商店下载
-#### ❓手机不能科学上网，请查阅[fluffy-adventure](clash开启局域网.md)
+#### ❓手机不能科学上网，请查阅[clash开启局域网](clash开启局域网.md)
 
 
 
