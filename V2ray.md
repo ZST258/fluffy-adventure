@@ -37,7 +37,23 @@
 #### 使用方法
 根据下列图片进行操作
 #### 添加订阅
-请下载添加订阅视频[添加订阅教程](v2rayNG.mp4)
+下载添加订阅视频[添加订阅教程](https://raw.githubusercontent.com/ZST258/fluffy-adventure/master/v2rayNG.mp4)
+首先点击左上角按钮：
+![85E975F674ACC9B9E5552464E4B68F82](https://user-images.githubusercontent.com/90917166/150638933-404e49ec-969a-4fd1-9452-53152d01b916.jpg)
+选择第一项“订阅设置”
+![25B63EAF5DD6CE8F6E9F2AAE4E3FD5CB](https://user-images.githubusercontent.com/90917166/150638975-fb90da17-4a4e-4c31-816d-8b2ce6b20ddd.jpg)
+然后点击右上角加号按钮，添加订阅。
+#### 其中url填写订阅链接，备注任意。订阅链接如下
+      https://proxy.cloudkingzst.xyz/provider/v2sub.txt
+![ED3248227FE2F122A3E15B8829C5D77C](https://user-images.githubusercontent.com/90917166/150639010-fde0bd38-b9b5-4830-932c-18939dd1faf1.jpg)
+最后返回主界面，点击有上角三个点按钮，选择更新订阅。
+![9F1197B2DD95D1A53A24F85765A52EA4](https://user-images.githubusercontent.com/90917166/150639113-36803c77-3ec0-4fe3-8eb0-7f1f0529b47d.jpg)
+#### 进行连接
+点击下方'V'按钮，使得它变为绿色即可。连接成功后，你可以单击最下方黑色边栏进行测试，如果返回的延迟则节点没有问题。
+反之需要更换。
+#### app其他配置
+#### 建议操作：点击左上方按钮，选择设置，取消掉选项“分应用代理”。
+
 
 
 
