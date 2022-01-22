@@ -6,7 +6,8 @@
 ### 一、V2rayN使用方法
 #### 1.下载链接：
         https://github.com/2dust/v2rayN/releases/tag/4.29
-选择v4.44.0下载即可，windows端选择如下版本
+下载下图所示的文件：
+![image](https://user-images.githubusercontent.com/90917166/150637151-2505f768-69a2-4fb9-ba42-856a29a2355d.png)
 #### 2.使用方式
 #### 
 
