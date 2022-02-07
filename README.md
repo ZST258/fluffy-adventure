@@ -37,6 +37,7 @@ c.下载完成后有120秒的做种时间，保证种子的活跃性。
 ![image](https://user-images.githubusercontent.com/90917166/152499466-554646c7-5c10-43bf-9845-40721ff92e4a.png)
 将用户名和密码复制在一旁备用。
 #### （1）potplayer
+      potplayer下载链接：https://gia.cloudkingzst.xyz/quick-download-button/?aid=549&_wpnonce=bbbe87bfbb
 打开potplayer，右击播放页面，按照图中黄色高亮的选项进行选择
 <img width="1280" alt="image" src="https://user-images.githubusercontent.com/90917166/152499793-aa4af14b-ea2e-49ee-a979-8532eb6169c1.png">
 按照下图填写：
