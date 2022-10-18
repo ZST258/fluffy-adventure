@@ -20,7 +20,7 @@
         judgeUA = 0
     }
     // if (judgeUA == 0 && w <= 450) {
-    if (judgeUA == 0 && url == "https://pan.ylmty.cc/" && w <= 450) {
+    if (judgeUA == 0 && url == "https://cv.cloudkingzst.xyz/" && w <= 450) {
         // url填自己的网站域名加http(s),请复制控制台输出的那一串填入这里，注意结束的/有就一起复制，没有就不加
         // console.log("移动端："+w)
         var div = document.createElement("div");
@@ -38,7 +38,7 @@
         document.body.append(div);
     }
     // if (judgeUA == 1 && w >= 450) {
-    if (judgeUA == 1 && url == "https://pan.ylmty.cc/" && w >= 450) {
+    if (judgeUA == 1 && url == "https://cv.cloudkingzst.xyz/" && w >= 450) {
         // url填自己的网站域名加http(s)
         // console.log("PC端："+w)
         var div = document.createElement("div");
