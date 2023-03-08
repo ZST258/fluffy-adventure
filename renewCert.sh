@@ -329,6 +329,7 @@ else
   echo -e "\033[0;32;1m 证书文件夹已创建！ \033[0m"
 fi
 
+chown -R nobody "${installPath}"
 
 #/root/.acme.sh/acme.sh --upgrade --auto-upgrade
 
@@ -371,6 +372,8 @@ else
     fail=$[$fail+1]
   else
     successDomain[${index}]=${domainRecord[${i}]}
+    chown -R nobody "${installPath}/fullchain-${domainRecord[${i}]}.cer"
+    chown -R nobody "${installPath}/private-${domainRecord[${i}]}.key"
     index=`expr ${index} + 1`
   fi
 fi
@@ -425,7 +428,7 @@ done;
 ##################################移动脚本#########################################
 
 if [ -d "${shellPath}/" ]; then
-  echo -e "\033[0;32;1m 证书文件夹已创建！ \033[0m"
+  echo -e "\033[0;32;1m 脚本文件夹已创建！ \033[0m"
   if [ ! -f "${shellPath}/${scriptName}" ]; then
     /usr/bin/cp -f "$0" "${shellPath}/${scriptName}"
   fi
